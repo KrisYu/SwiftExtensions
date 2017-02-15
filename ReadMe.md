@@ -2,7 +2,7 @@
 
 
 
-Some of useful swift extensions.
+Some of useful swift extensions and scripts.
 
 
 
@@ -17,3 +17,6 @@ Some of useful swift extensions.
 - [Detect ImageType](https://github.com/KrisYu/SwiftExtensions/blob/master/ImageType.playground/Contents.swift)
 
 
+### Exif
+
+- [Exif from NSURL](https://github.com/KrisYu/SwiftExtensions/blob/master/ExifPlayground.playground/Contents.swift)
