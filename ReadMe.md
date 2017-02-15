@@ -19,4 +19,4 @@ Some of useful swift extensions and scripts.
 
 ### Exif
 
-- [Exif from NSURL](https://github.com/KrisYu/SwiftExtensions/blob/master/ExifPlayground.playground/Contents.swift)
+- [Exif from NSURL image](https://github.com/KrisYu/SwiftExtensions/blob/master/ExifPlayground.playground/Contents.swift)
