@@ -6,9 +6,17 @@
 //  Copyright © 2017 XueYu. All rights reserved.
 //
 
+
+
 import UIKit
 import ImageIO
 import MobileCoreServices
+
+
+// Usage:
+// let gifFile = UIImage.gif(url: gifURL)
+// imageView.image = gifFile
+// 
 
 
 extension UIImage{
